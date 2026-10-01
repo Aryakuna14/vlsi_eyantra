@@ -1,0 +1,35 @@
+# Quartus-generated build artifacts (regenerable)
+db/
+incremental_db/
+output_files/
+simulation/
+simulationrtl_work/
+*.qws
+*.rpt
+*.smsg
+*.summary
+*.done
+*.jdi
+*.sld
+*.pin
+*.sof
+*.qdb
+*.qpg
+*.qtl
+*_msim_rtl_verilog.do
+*_msim_rtl_verilog.do.bak*
+*.wlf
+*.xrf
+*.sft
+*.vo
+msim_transcript
+modelsim.ini
+results.txt
+
+# Editor backups
+*.bak
+*.bak[0-9]*
+
+# OS cruft
+Thumbs.db
+.DS_Store
